@@ -1,4 +1,2 @@
 # cdf-code
-for ms cdf
-Done
-done2
+Final code for cdf in the file cdf.cpp
