@@ -68,7 +68,6 @@ int main()
 	vector<int> v1;
 	//v1={1,1,1,1,1};
 	vector<int> v2;
-	//v2={1,0,1};
 	v1.push_back(1);
 	v1.push_back(1);
 	v1.push_back(1);
@@ -81,7 +80,5 @@ int main()
 	vector<int> v3;
 	int i;
 	v3=addNegabinary(v1,v2);
-	for(i=0;i<v3.size();i++)
-		cout<<v3[i]<<" ";
 return 0;
 }
