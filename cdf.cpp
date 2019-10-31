@@ -1,5 +1,9 @@
 
 #include<bits/stdc++.h>
+#include<vector>
+#include<stdio.h>
+#include<conio.h>
+
 using namespace std;
 
 vector<int> addNegabinary(vector<int>& arr1, vector<int>& arr2) {
